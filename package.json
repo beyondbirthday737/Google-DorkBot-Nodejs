@@ -1,0 +1,15 @@
+{
+  "name": "dorkbot",
+  "version": "1.0.0",
+  "description": "a google bot for hackers ",
+  "main": "dorkbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Reis/nyx",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "puppeteer": "^5.5.0"
+  }
+}
